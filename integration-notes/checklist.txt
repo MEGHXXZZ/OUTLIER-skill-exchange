@@ -1,0 +1,67 @@
+=========================================
+OUTLIER - INTEGRATION CHECKLIST
+Team ID: CBC064
+Domain: Software and Web Development
+=========================================
+
+PHASE 1: RECEIVING CODE (Hour 8-10)
+------------------------------------
+[ ] Received frontend folder from Meghavathi
+[ ] Received backend folder from Mohan
+[ ] Received matching logic from Jeevika
+
+PHASE 2: SETUP ENVIRONMENT (Hour 10-11)
+---------------------------------------
+[ ] Copied frontend into OUTLIER_Final/frontend
+[ ] Copied backend into OUTLIER_Final/backend
+[ ] Copied matching logic into backend/utils/
+[ ] Ran 'npm install' in backend folder
+[ ] Ran 'npm install' in frontend folder
+
+PHASE 3: RUN BOTH SERVERS (Hour 11-12)
+---------------------------------------
+[ ] Backend running on http://localhost:5000
+[ ] Frontend running on http://localhost:5174
+[ ] No red errors in either terminal
+
+PHASE 4: CONNECT FRONTEND TO BACKEND (Hour 12-14)
+--------------------------------------------------
+[ ] Checked frontend 'api.js' file - API_BASE is correct
+[ ] Checked backend 'server.js' - CORS is enabled
+[ ] Login works end-to-end
+[ ] User profile loads correctly
+[ ] Search returns results
+[ ] Filters work (skill, location, availability)
+[ ] Book session works
+[ ] Cancel session works
+
+PHASE 5: RESCUE MATCH INTEGRATION (Hour 14-15)
+----------------------------------------------
+[ ] Rescue Match popup appears after cancel
+[ ] Accept Rescue Match works
+[ ] New session is created in database
+[ ] Dashboard shows new session
+
+PHASE 6: FEATURE TESTING (Hour 15-17)
+-------------------------------------
+[ ] Community Circles page loads
+[ ] User can join a Community Circle
+[ ] Face/Faceless toggle works
+[ ] Gender filter works
+[ ] Notification alert appears for teacher
+[ ] Skill Growth Passport shows badges
+[ ] Learnt / Ongoing / Teach sections display correctly
+
+PHASE 7: DEMO PREP (Hour 17-19)
+-------------------------------
+[ ] Full demo flow tested (register -> match -> book -> cancel -> rescue)
+[ ] Screen recording started
+[ ] Demo video recorded (5 minutes)
+[ ] Voiceover added
+
+PHASE 8: SUBMISSION (Hour 19-20)
+--------------------------------
+[ ] PPT finalized with Team ID footer on all slides
+[ ] File named CBC064_Software_and_Web_Development.pptx
+[ ] File named CBC064_Software_and_Web_Development.pdf
+[ ] Both files submitted
